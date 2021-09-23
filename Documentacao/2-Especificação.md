@@ -63,8 +63,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|ID_0201| O sistema deve ser responsivo para rodar em um dispositivos móvel | ALTA | 
+|ID_0201| O sistema deve ser responsivo para rodar em um dispositivos móvel e desktop | ALTA | 
 |ID_0202| Deve processar a atualização dos produtos em no máximo 3 seg |  MÉDIA | 
+|ID_0203| Deve ser capacitado para fácil acessibilidade |  ALTA | 
 
 ## Restrições
 
