@@ -1,5 +1,5 @@
 # Especificações Do Projeto
-## Persona 1
+## Persona (1)
 
 Maria das Graças, tem 43 anos e tem hábitos de cuidar dos filhos, ir à missa e fazer as compras de casa. Se sustenta com um emprego de faxina
 e tem a frustração de não ter uma condição de dar melhores oportunidades ao seus filhos, assim encontrando desafios como sustentar, juntamento com seu marido, seus
@@ -7,7 +7,7 @@ e tem a frustração de não ter uma condição de dar melhores oportunidades ao
 compará-los e saber onde vale mais a pena comprar. As fontes de informações mais usadas são a televisão e celular, usando tambem em redes sociais como Facebook e
 Whatsapp.Sempre leva como critério de decisão na hora da compra o preço dos produtos.
 
-## Persona 2
+## Persona (2)
 
 Suélen Fária, tem 52 anos e faz marmitas caseiras como sustento. Como trabalha nesta área da gastronomia tem algumas frustações como ter que parar para anotar os
 preços quando passa uma propaganda de promoções de mercado e guardar panfletos para comprar preços e tem alguns desafios para conseguir manter o lucro com as marmitas
@@ -16,7 +16,7 @@ que possível anota promoções e ofertas em busca de produtos de qualidade com 
 de informações a internet e redes sociais como facebook e Whatsapp como noticias na televisão. Sempre leva como critério de decisão na hora da compra o preço e
 qualidade dos produtos.
 
-## Persona 3
+## Persona (3)
 
 João da Silva Freitas, tem 45 anos e trabalha como funcionário público e por ser muito meticuloso sempre planeja o que comprar antes de sair de casa e não tem costume
 de comprar os produtos por impulsividade, prefere sempre comparar preços de diversos lugares para garantir a melhor qualidade com o melhor preço. Por seguir por estes
@@ -26,14 +26,7 @@ produtos nos supermercados e para isso João usa bastante as redes sociais como 
 vezes informações da televisão com anuncios de produtos porem bem menos frequente. Sempre leva como critério de decisão na hora da compra a distância do local e o
 preço dos produtos.
 
-
-
-• Hábitos de compra: Faz compras em supermercados duas vezes por mês, tendo cada produto a ser comprado anotado
-• Quais mídias preferem: Facebook,Whatsapp,Instagram
-• Quem os influencia: Os parentes, vizinhos, telefone e televisão.
-• Quais tecnologias usa: Televisão, celular, computador e rádio.
-• Onde busca informação: Internet (Facebook e outras mídias sociais), televisão , amigos e rádio.
-• Critérios de decisão na hora da compra; Distância e preço
+## Persona (4)
 
 ## Histórias de Usuários
 
