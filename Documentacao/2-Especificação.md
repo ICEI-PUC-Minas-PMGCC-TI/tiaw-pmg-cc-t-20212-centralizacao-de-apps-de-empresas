@@ -8,19 +8,9 @@
 
 ## Personas
 
-\n • Nome: Maria das Graças
-\n • Idade: 43 anos
-\n • Hábitos: Cuida dos filhos, vai à missa, faz as comprar da casa.
-/n • Emprego: Faxineira
-• Frustrações: não ter condições de dar melhor oportunidades a seus filhos
-• Desafios: Sustentar, juntamente com seu marido, seus 3 filhos.
-• Crenças: Católica 
-• Hábitos de compra: Faz comprar em supermercados duas vezes por mês, e sempre anota os preços e locais de produtos para poder compará-los e saber onde vale mais a pena comprar.
-• Quais mídias preferem: Facebook, Whatsapp
-• Quem os influencia: Os parentes e vizinhos
-• Quais tecnologias usa: televisão e celular
-• Onde busca informação: Internet (Facebook e outras mídias sociais), televisão
-• Critérios de decisão na hora da compra: majoritariamente o preço, e em casos de urgência, a distância do local (já que ela não possui carteira de motorista)
+Nome: Maria das Graças, Tem 43 anos e tem hábitos de cuidar dos filhos, ir à missa e fazer as compras de casa. Atualmente tem o emprego de faxineira
+e tem a frustração de não ter uma condição de dar melhores oportunidades ao seus filhos, assim encontrando desafios como sustentar, juntamento com seu marido, seus
+3 filhos. Por ser dona de casa tem um hábito de compra continuo em supermercados cerca de 2 vezes ao mês e sempre anota os preços e locais de produtos para poder compará-los e saber onde vale mais a pena comprar. As fontes de informações mais usadas são a televisão e celular, usando tambem em redes sociais como Facebook e Whatsapp.
 
 
 > Enumere e detalhe as personas da sua solução. Para
