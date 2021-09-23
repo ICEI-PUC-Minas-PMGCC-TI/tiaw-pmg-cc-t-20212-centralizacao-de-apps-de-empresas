@@ -51,8 +51,10 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|ID_0101 : | Permitir que o usuário confira preços,promoções e produtos em diversos supermercados | ALTA | 
-|ID_0102 : | Emitir um relatório de tarefas no mês   | MÉDIA |
+|ID_0101 : | Uma barra de pesquisa para filtragem de produtos | ALTA | 
+|ID_0102 : | Uma lista atualizada para o usuário de itens para ser comprados ao chegar no local | MÉDIA |
+|ID_0103 : | Um sistema de notificação para o usuário em caso de produtos promocionais comprados constamente ou desejado pelo mesmo | MÉDIA |
+
 
 
 ### Requisitos não Funcionais
