@@ -1,11 +1,4 @@
 # Especificações Do Projeto
-
-<span style="color:red">Pré-requisitos: <a href="1-Contexto.md"> Documentação de Contexto</a></span>
-
-> Apresente uma visão geral do que será abordado nesta parte do
-> documento, enumerando as técnicas e/ou ferramentas utilizadas para
-> realizar a especificações do projeto
-
 ## Personas
 
 Nome: Maria das Graças, Tem 43 anos e tem hábitos de cuidar dos filhos, ir à missa e fazer as compras de casa. Atualmente tem o emprego de faxineira
