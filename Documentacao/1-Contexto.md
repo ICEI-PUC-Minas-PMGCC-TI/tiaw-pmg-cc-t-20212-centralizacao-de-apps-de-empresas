@@ -2,7 +2,7 @@
 
 ## Problema
 
-as\nAAA
+Antes de comprar algo hoje em dia, é comum pesquisar os preços na internet e escolher onde comprar baseando-se nisso. Porém, quando se faz comprar no supermercado, essa comparação é mais difícil de ser feita pela alta quantidade de produtos e pela informação pouco centralizada sobre seus preços na internet.
 > **Links Úteis**:
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
 > - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
