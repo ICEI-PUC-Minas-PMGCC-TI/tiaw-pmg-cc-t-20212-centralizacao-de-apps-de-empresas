@@ -28,6 +28,8 @@ preço dos produtos.
 
 ## Persona (4)
 
+Nome: Ana, tem 27 anos e tem o hábito de estudar, trabalhar e cuidar da casa para o seu próprio sustento. Atualmente ela trabalha meio horário e tem uma pequena ajuda financeira da sua família, sendo assim vem encontrando desafios para ter tempo e dinheiro para curtir momentos de lazeres. Já que mora sozinha, ela precisa ir mensalmente duas vezes ao supermercado para conseguir ter o que comer na sua casa, porém ela não pode perder muito tempo, já que seu dia a dia é muito agitado. Sendo assim, ela busca as informações de produtos pela internet, mas devido a nenhuma centralização vem perdendo muito tempo. As redes sociais mais usadas por ela é o linkedin, whatsapp, telegrama e twitter.
+
 ## Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
