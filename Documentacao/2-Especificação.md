@@ -8,11 +8,19 @@
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em
-se desenvolver profissionalmente através de um mestrado fora do país,
-pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está
-buscando uma agência que o ajude a encontrar universidades na Europa
-que aceitem alunos estrangeiros.
+• Nome: Maria das Graças
+• Idade: 43 anos
+• Hábitos: Cuida dos filhos, vai à missa, faz as comprar da casa.
+• Emprego: Faxineira
+• Frustrações: não ter condições de dar melhor oportunidades a seus filhos
+• Desafios: Sustentar, juntamente com seu marido, seus 3 filhos.
+• Crenças: Católica 
+• Hábitos de compra: Faz comprar em supermercados duas vezes por mês, e sempre anota os preços e locais de produtos para poder compará-los e saber onde vale mais a pena comprar.
+• Quais mídias preferem: Facebook, Whatsapp
+• Quem os influencia: Os parentes e vizinhos
+• Quais tecnologias usa: televisão e celular
+• Onde busca informação: Internet (Facebook e outras mídias sociais), televisão
+• Critérios de decisão na hora da compra: majoritariamente o preço, e em casos de urgência, a distância do local (já que ela não possui carteira de motorista)
 
 
 > Enumere e detalhe as personas da sua solução. Para
