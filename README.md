@@ -2,7 +2,7 @@
 
 # Nome do projeto
 
-Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
+Facilitar ao usuário o acesso à preços de produtos de supermercados, tornando possível uma comparação do preço de determinado produto em mais de um lugar de modo prático.
 
 ## Alunos integrantes da equipe
 
