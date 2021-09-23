@@ -10,10 +10,10 @@ Trabalho Interdisciplinar - Aplicacões Web
 ## Participantes
 
 Os membros do grupo são: 
-- Fulano da Silva
-- Ciclano Albuquerque
-
-> Inclua a lista dos membros da equipe com seus nomes completos.
+- Pedro Augusto Carbonaro Goncalves
+- Hudsson Davih Apolinario De Andrade
+- Mário do vale pereira
+- Gabriel
 
 # Estrutura do Documento
 
