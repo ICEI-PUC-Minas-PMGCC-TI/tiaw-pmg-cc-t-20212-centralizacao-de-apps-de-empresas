@@ -51,10 +51,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|ID_0101 : | Uma barra de pesquisa para o usuário filtrar os produtos | ALTA | 
-|ID_0102 : | Uma amostra das promoções atuais | MÉDIA |
-|ID_0103 : | Uma lista para que o usuário saiba o que deve ser comprado  | MÉDIA |
-|ID_0104 : | Um sistema de notificar o produto promocional que o usuário compra constantemente ou deseja.  | MÉDIA |
+|ID_0101 : | Permitir que o usuário confira preços,promoções e produtos em diversos supermercados | ALTA | 
+|ID_0102 : | Emitir um relatório de tarefas no mês   | MÉDIA |
 
 
 ### Requisitos não Funcionais
@@ -68,7 +66,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 O projeto está restrito pelos itens apresentados na tabela a seguir.
 
-|ID| Restrição                                             |
+|ID| Restrições                                            |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
+|01| O projeto deverá ser entregue até o final do semestre        |
+|02| Precisa ser desenvolvido em um módulo de backend             |
+|03| A equipe não pode subcontratar o desenvolvimento do trabalho |  
