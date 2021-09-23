@@ -8,10 +8,10 @@
 
 ## Personas
 
-• Nome: Maria das Graças
-• Idade: 43 anos
-• Hábitos: Cuida dos filhos, vai à missa, faz as comprar da casa.
-• Emprego: Faxineira
+\n • Nome: Maria das Graças
+\n • Idade: 43 anos
+\n • Hábitos: Cuida dos filhos, vai à missa, faz as comprar da casa.
+/n • Emprego: Faxineira
 • Frustrações: não ter condições de dar melhor oportunidades a seus filhos
 • Desafios: Sustentar, juntamente com seu marido, seus 3 filhos.
 • Crenças: Católica 
