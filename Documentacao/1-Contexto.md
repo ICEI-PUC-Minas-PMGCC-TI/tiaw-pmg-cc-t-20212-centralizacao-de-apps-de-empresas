@@ -11,11 +11,11 @@ O problema que este projeto busca resolver é a dificuldade de acesso aos preço
 O objetivo geral desse projeto é, através de um software, ajudar as pessoas a escolher onde comprar determinados produtos baseando-se no preço e em outros requisitos pessoais. 
 
 Alguns objetivos específicos são:
-- mostrar preços e locais de um produto pesquisado, através de um sistema de filtragem;
-- evidênciar ao usuário produtos que estejam em promoção;
-- mostrar, de modo prático, os preços médios de produtos que o usuário desejar com frequência;
+- mostrar preços e locais de produtos de um mercado pesquisado, através de um sistema de filtragem;
 - uma lista que o usuário poderá atualizar com os produtos que deseja comprar;
+- links que direcionarão aos sites de supermercados, facilitando ao usuário o acesso;
 - uma funcionalidade na qual os desenvolvedores terão acesso às opiniões e sugestões dos usuários;
+- panfletos dos supermercados à vista.
 
 
 ## Justificativa
@@ -26,7 +26,3 @@ A internet tem ajudado compradores de todas as áreas, mas os produtos de mercad
 ## Público-Alvo
 
 O público-alvo desse projeto são pessoas que precisam fazer compras em supermercados regularmente e em maiores quantidades, e pessoas que gostam de pesquisar o preço dos produtos que irão comprar mas não podem gastar tanto tempo nisso. Eles têm acesso à internet através de um celular. Pessoas com uma condição financeira limitada.
->
-> Adicione informações sobre o público-alvo por meio de uma descrição
-> textual, ou diagramas de personas, mapa de stakeholders, ou como o
-> grupo achar mais conveniente.
