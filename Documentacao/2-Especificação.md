@@ -73,5 +73,6 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Restrições                                            |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre        |
-|02| Precisa ser desenvolvido em um módulo de frontend            | 
+|01| O projeto deverá ser entregue até a data 28/10/2021   |
+|02| Precisa ser desenvolvido em um módulo de frontend     | 
+
