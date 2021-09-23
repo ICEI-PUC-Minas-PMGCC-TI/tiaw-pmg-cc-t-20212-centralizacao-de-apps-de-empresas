@@ -8,17 +8,19 @@ O problema que este projeto busca resolver é a dificuldade de acesso aos preço
 
 ## Objetivos
 
-O objetivo desse projeto é, através de um software, ajudar as pessoas a escolher onde comprar determinados produtos baseando-se no preço e em outros requisitos pessoais. De modo mais específico, o software irá mostrar os preços e locais de um produto desejado através de um filtro, e o cliente escolherá onde comprar. Além disso, 
-> Aqui você deve descrever os objetivos do trabalho indicando que o
-> objetivo geral é desenvolver um software para solucionar o problema
-> apresentado acima. Apresente também alguns (pelo menos 2) objetivos
-> específicos dependendo de onde você vai querer concentrar a sua
-> prática investigativa, ou como você vai aprofundar no seu trabalho.
-> 
+O objetivo geral desse projeto é, através de um software, ajudar as pessoas a escolher onde comprar determinados produtos baseando-se no preço e em outros requisitos pessoais. 
+
+Alguns objetivos específicos são:
+- mostrar preços e locais de um produto pesquisado, através de um sistema de filtragem;
+- evidênciar ao usuário produtos que estejam em promoção;
+- mostrar, de modo prático, os preços médios de produtos que o usuário desejar com frequência;
+- uma lista que o usuário poderá atualizar com os produtos que deseja comprar;
+- uma funcionalidade na qual os desenvolvedores terão acesso às opiniões e sugestões dos usuários;
+
 
 ## Justificativa
 
-
+A internet tem ajudado compradores de todas as áreas, mas os produtos de mercado ainda não são tão acessíveis pela internet. Além disso, a falta de praticidade de acesso à essas informações foi um fator determinante na definição dos objetivos específicos do projeto.
 > Descreva a importância ou a motivação para trabalhar com esta aplicação
 > que você escolheu. Indique as razões pelas quais você escolheu seus
 > objetivos específicos ou as razões para aprofundar em certos aspectos
