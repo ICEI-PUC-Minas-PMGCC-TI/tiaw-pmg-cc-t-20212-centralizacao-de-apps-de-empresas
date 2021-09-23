@@ -1,25 +1,23 @@
 # Introdução
 
+O crescimento do uso da internet nos últimos anos desencadeou mudanças em diversas áreas. Uma das mais afetadas foi o comércio. Antes de comprar algo hoje em dia, é comum pesquisar os preços desse produto na internet e escolher onde comprá-lo antes mesmo de se ter contato com ele. Porém, quando se faz compras no supermercado, essa pesquisa é mais difícil de ser feita pela alta quantidade de produtos e pela informação pouco centralizada sobre seus preços na internet.
+
 ## Problema
 
-Antes de comprar algo hoje em dia, é comum pesquisar os preços na internet e escolher onde comprar baseando-se nisso. Porém, quando se faz comprar no supermercado, essa comparação é mais difícil de ser feita pela alta quantidade de produtos e pela informação pouco centralizada sobre seus preços na internet.
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+O problema que este projeto busca resolver é a dificuldade de acesso aos preços de produtos de supermercados.
 
 ## Objetivos
 
+O objetivo desse projeto é, através de um software, ajudar as pessoas a escolher onde comprar determinados produtos baseando-se no preço e em outros requisitos pessoais. De modo mais específico, o software irá mostrar os preços e locais de um produto desejado através de um filtro, e o cliente escolherá onde comprar. Além disso, 
 > Aqui você deve descrever os objetivos do trabalho indicando que o
 > objetivo geral é desenvolver um software para solucionar o problema
 > apresentado acima. Apresente também alguns (pelo menos 2) objetivos
 > específicos dependendo de onde você vai querer concentrar a sua
 > prática investigativa, ou como você vai aprofundar no seu trabalho.
 > 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
+
 
 > Descreva a importância ou a motivação para trabalhar com esta aplicação
 > que você escolheu. Indique as razões pelas quais você escolheu seus
