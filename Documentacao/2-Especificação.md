@@ -53,7 +53,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|ID_0101 : | Uma barra de pesquisa para filtragem de produtos | ALTA | 
+|ID_0101 : | Uma barra de pesquisa para filtragem de mercados | ALTA | 
 |ID_0102 : | Uma lista atualizada para o usuário de itens para ser comprados ao chegar no local | MÉDIA |
 |ID_0103 : | Um link para sites de mercados próximo as promoções mostradas | MÉDIA |
 
