@@ -21,12 +21,7 @@ Alguns objetivos específicos são:
 ## Justificativa
 
 A internet tem ajudado compradores de todas as áreas, mas os produtos de mercado ainda não são tão acessíveis pela internet. Além disso, a falta de praticidade de acesso à essas informações foi um fator determinante na definição dos objetivos específicos do projeto, que visam aumentar a eficiência do tempo de pesquisa.
-> O grupo de trabalho pode fazer uso de questionários, entrevistas e
-> dados estatísticos, que podem ser apresentados, com o objetivo de
-> esclarecer detalhes do problema que será abordado pelo grupo.
->
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+
 
 ## Público-Alvo
 
@@ -35,8 +30,3 @@ O público-alvo desse projeto são pessoas que precisam fazer compras em superme
 > Adicione informações sobre o público-alvo por meio de uma descrição
 > textual, ou diagramas de personas, mapa de stakeholders, ou como o
 > grupo achar mais conveniente.
-> 
-> **Links Úteis**:
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
- 
