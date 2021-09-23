@@ -20,12 +20,7 @@ Alguns objetivos específicos são:
 
 ## Justificativa
 
-A internet tem ajudado compradores de todas as áreas, mas os produtos de mercado ainda não são tão acessíveis pela internet. Além disso, a falta de praticidade de acesso à essas informações foi um fator determinante na definição dos objetivos específicos do projeto.
-> Descreva a importância ou a motivação para trabalhar com esta aplicação
-> que você escolheu. Indique as razões pelas quais você escolheu seus
-> objetivos específicos ou as razões para aprofundar em certos aspectos
-> do software.
-> 
+A internet tem ajudado compradores de todas as áreas, mas os produtos de mercado ainda não são tão acessíveis pela internet. Além disso, a falta de praticidade de acesso à essas informações foi um fator determinante na definição dos objetivos específicos do projeto, que visam aumentar a eficiência do tempo de pesquisa.
 > O grupo de trabalho pode fazer uso de questionários, entrevistas e
 > dados estatísticos, que podem ser apresentados, com o objetivo de
 > esclarecer detalhes do problema que será abordado pelo grupo.
@@ -35,12 +30,7 @@ A internet tem ajudado compradores de todas as áreas, mas os produtos de mercad
 
 ## Público-Alvo
 
-> Descreva quem serão as pessoas que usarão a sua aplicação indicando os
-> diferentes perfis. O objetivo aqui não é definir quem serão os
-> clientes ou quais serão os papéis dos usuários na aplicação. A ideia
-> é, dentro do possível, conhecer um pouco mais sobre o perfil dos
-> usuários: conhecimentos prévios, relação com a tecnologia, relações
-> hierárquicas, etc.
+O público-alvo desse projeto são pessoas que precisam fazer compras em supermercados regularmente e em maiores quantidades, e pessoas que gostam de pesquisar o preço dos produtos que irão comprar mas não podem gastar tanto tempo nisso. Eles têm acesso à internet através de um celular. Pessoas com uma condição financeira limitada.
 >
 > Adicione informações sobre o público-alvo por meio de uma descrição
 > textual, ou diagramas de personas, mapa de stakeholders, ou como o
