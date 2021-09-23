@@ -40,11 +40,10 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |      QUEM   |NECESSIDADES       |  FINALIDADE DA NECESSIDADE                     |
 |-------------|-------------------|----------------------------------------------------------------|
-|Usuário/Cliente  | Método de comparação de preços  | Fazer compras com mais facilidade e melhor preço               |
-|Usuário/Cliente  | Método de comparação de preços  | Fazer compras com mais facilidade e melhor preço               |
-|Usuário/Cliente  | Método de comparação de preços  | Fazer compras com mais facilidade e melhor preço               |
-|Usuário/Cliente  | Método de comparação de preços  | Fazer compras com mais facilidade e melhor preço               |
-|Administrador  | Criação de um sistema eficaz e objetivo | Atender a necessidade de um problema real de clientes/usuarios |
+|Maria das Graças| Buscar um preço mais acessível de produtos  | Conseguir economizar o máximo possível para sustentar a familia       |
+|Suélen Fária | Comprar em grande quantidade e com preço melhor nos produtos | Conseguir ter maior lucro com suas marmitas           |
+|João da Silva Freitas | Buscar um preço melhor de produtos  | Conseguir economizar para viajar com sua familia                        |
+|Ana Pereira Carvalho  | Buscar um preço melhor e economizar seu tempo  | Conseguir ter maior tempo e dinheiro para dedicar ao lazer e estudos    |
 
 ## Requisitos
 
