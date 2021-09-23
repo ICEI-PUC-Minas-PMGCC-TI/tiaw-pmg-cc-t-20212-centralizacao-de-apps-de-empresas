@@ -1,18 +1,15 @@
 # Gerenciamento de Projeto
 
-> Descreva aqui a metodologia de trabalho do grupo para atacar o
-> problema.
+Nosso grupo atacou o problema de modo coletivo, fazendo diversas reuniões para tratar do assunto. O objetivo desse método é a qualidade do produto final.
+
 
 ## Divisão de Papéis
 
-> Apresente a divisão de papéis entre os membros do grupo.
->
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+Fizemos cada parte de modo cooperativo.
+
 
 ## Processo
+
 
 > Coloque  informações sobre detalhes da implementação do Scrum seguido
 > pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar
