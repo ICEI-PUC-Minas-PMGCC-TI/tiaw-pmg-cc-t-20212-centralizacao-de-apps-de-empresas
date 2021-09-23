@@ -1,10 +1,39 @@
 # Especificações Do Projeto
-## Personas
+## Persona 1
 
-Nome: Maria das Graças, Tem 43 anos e tem hábitos de cuidar dos filhos, ir à missa e fazer as compras de casa. Atualmente tem o emprego de faxineira
+Maria das Graças, tem 43 anos e tem hábitos de cuidar dos filhos, ir à missa e fazer as compras de casa. Se sustenta com um emprego de faxina
 e tem a frustração de não ter uma condição de dar melhores oportunidades ao seus filhos, assim encontrando desafios como sustentar, juntamento com seu marido, seus
-3 filhos. Por ser dona de casa tem um hábito de compra continuo em supermercados cerca de 2 vezes ao mês e sempre anota os preços e locais de produtos para poder compará-los e saber onde vale mais a pena comprar. As fontes de informações mais usadas são a televisão e celular, usando tambem em redes sociais como Facebook e Whatsapp.
+3 filhos. Por ser dona de casa tem um hábito de compra continuo em supermercados cerca de 2 vezes ao mês e sempre anota os preços e locais de produtos para poder
+compará-los e saber onde vale mais a pena comprar. As fontes de informações mais usadas são a televisão e celular, usando tambem em redes sociais como Facebook e
+Whatsapp.Sempre leva como critério de decisão na hora da compra o preço dos produtos.
 
+## Persona 2
+
+Suélen Fária, tem 52 anos e faz marmitas caseiras como sustento. Como trabalha nesta área da gastronomia tem algumas frustações como ter que parar para anotar os
+preços quando passa uma propaganda de promoções de mercado e guardar panfletos para comprar preços e tem alguns desafios para conseguir manter o lucro com as marmitas
+apesar do aumento dos preços dos produtos. Tem grandes hábitos como fazer compras em grandes quantidades 2 vezes ao mês para manter a produção das marmitas e sempre
+que possível anota promoções e ofertas em busca de produtos de qualidade com menores preços. Com o maior contato com a televisão e o celular usa bastante como fonte
+de informações a internet e redes sociais como facebook e Whatsapp como noticias na televisão. Sempre leva como critério de decisão na hora da compra o preço e
+qualidade dos produtos.
+
+## Persona 3
+
+João da Silva Freitas, tem 45 anos e trabalha como funcionário público e por ser muito meticuloso sempre planeja o que comprar antes de sair de casa e não tem costume
+de comprar os produtos por impulsividade, prefere sempre comparar preços de diversos lugares para garantir a melhor qualidade com o melhor preço. Por seguir por estes
+metodos para fazer as compras sofre com alguns desafios de as vezes não saber o preço de algum produto ou não conseguir comparar-lo com o preço de outro lugar, tendo
+o hábito de fazer compras em supermercados duas vezes por mês e sempre anotando tudo que precisa, é necessario que haja uma forma mais eficaz de comparar preços de
+produtos nos supermercados e para isso João usa bastante as redes sociais como facebook, Whatsapp e instagram para conferir esses preços e ofertas, tendo tambem as
+vezes informações da televisão com anuncios de produtos porem bem menos frequente. Sempre leva como critério de decisão na hora da compra a distância do local e o
+preço dos produtos.
+
+
+
+• Hábitos de compra: Faz compras em supermercados duas vezes por mês, tendo cada produto a ser comprado anotado
+• Quais mídias preferem: Facebook,Whatsapp,Instagram
+• Quem os influencia: Os parentes, vizinhos, telefone e televisão.
+• Quais tecnologias usa: Televisão, celular, computador e rádio.
+• Onde busca informação: Internet (Facebook e outras mídias sociais), televisão , amigos e rádio.
+• Critérios de decisão na hora da compra; Distância e preço
 
 ## Histórias de Usuários
 
