@@ -1,7 +1,7 @@
 # Especificações Do Projeto
 ## Persona (1)
 
-Maria das Graças, tem 43 anos e tem hábitos de cuidar dos filhos, ir à missa e fazer as compras de casa. Se sustenta com um emprego de faxina
+Maria das Graças, tem 43 anos e tem hábitos como cuidar dos filhos, ir à missa e fazer as compras de casa. Se sustenta com um emprego de faxina
 e tem a frustração de não ter uma condição de dar melhores oportunidades ao seus filhos, assim encontrando desafios como sustentar, juntamento com seu marido, seus
 3 filhos. Por ser dona de casa tem um hábito de compra continuo em supermercados cerca de 2 vezes ao mês e sempre anota os preços e locais de produtos para poder
 compará-los e saber onde vale mais a pena comprar. As fontes de informações mais usadas são a televisão e celular, usando tambem em redes sociais como Facebook e
@@ -22,8 +22,8 @@ João da Silva Freitas, tem 45 anos e trabalha como funcionário público e por 
 de comprar os produtos por impulsividade, prefere sempre comparar preços de diversos lugares para garantir a melhor qualidade com o melhor preço. Por seguir por estes
 metodos para fazer as compras sofre com alguns desafios de as vezes não saber o preço de algum produto ou não conseguir comparar-lo com o preço de outro lugar, tendo
 o hábito de fazer compras em supermercados duas vezes por mês e sempre anotando tudo que precisa, é necessario que haja uma forma mais eficaz de comparar preços de
-produtos nos supermercados e para isso João usa bastante as redes sociais como facebook, Whatsapp e instagram para conferir esses preços e ofertas, tendo tambem as
-vezes informações da televisão com anuncios de produtos porem bem menos frequente. Sempre leva como critério de decisão na hora da compra a distância do local e o
+produtos nos supermercados e para isso João usa bastante as redes sociais como Facebook, Whatsapp e Instagram para conferir esses preços e ofertas, tendo também as
+vezes informações da televisão com anúncios de produtos porém bem menos frequente. Sempre leva como critério de decisão na hora da compra a distância do local e o
 preço dos produtos.
 
 ## Persona (4)
