@@ -10,7 +10,7 @@ Fizemos cada parte de modo cooperativo.
 
 ## Processo
 
-A comunicação do grupo se deu por meio de mensagens e de chamadas de voz. A atualização do
+A comunicação do grupo se deu por meio de mensagens e de chamadas de voz. A atualização do projeto foi documentada diretamente no github.
 
 
 ## Ferramentas
