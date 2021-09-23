@@ -55,7 +55,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |------|-----------------------------------------|----|
 |ID_0101 : | Uma barra de pesquisa para filtragem de produtos | ALTA | 
 |ID_0102 : | Uma lista atualizada para o usuário de itens para ser comprados ao chegar no local | MÉDIA |
-|ID_0103 : | Um sistema de notificação para o usuário em caso de produtos promocionais comprados constamente ou desejado pelo mesmo | MÉDIA |
+|ID_0103 : | Um link para sites de mercados próximo as promoções mostradas | MÉDIA |
 
 
 
