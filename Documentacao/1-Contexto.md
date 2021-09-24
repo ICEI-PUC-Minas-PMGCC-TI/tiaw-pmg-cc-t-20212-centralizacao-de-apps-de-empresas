@@ -15,7 +15,6 @@ Alguns objetivos específicos são:
 - uma lista que o usuário poderá atualizar com os produtos que deseja comprar;
 - links que direcionarão aos sites de supermercados, facilitando ao usuário o acesso;
 - uma funcionalidade na qual os desenvolvedores terão acesso às opiniões e sugestões dos usuários;
-- panfletos dos supermercados à vista.
 
 
 ## Justificativa
