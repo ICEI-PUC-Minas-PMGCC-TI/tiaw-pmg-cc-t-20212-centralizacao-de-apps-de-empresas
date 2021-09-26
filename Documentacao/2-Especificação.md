@@ -43,7 +43,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Maria das Graças| Buscar um preço mais acessível de produtos  | Conseguir economizar o máximo possível para sustentar a familia       |
 |Suélen Fária | Comprar em grande quantidade e com preço melhor nos produtos | Conseguir ter maior lucro com suas marmitas           |
 |João da Silva Freitas | Buscar um preço melhor de produtos  | Conseguir economizar para viajar com sua familia                        |
-|Ana Pereira Carvalho  | Buscar um preço melhor e economizar seu tempo  | Conseguir ter maior tempo e dinheiro para dedicar ao lazer e estudos    |
+|Ana Pereira Carvalho  | Buscar um preço melhor e economizar seu tempo  | Conseguir ter mais tempo e dinheiro para dedicar ao lazer e estudos    |
 
 ## Requisitos
 
@@ -53,10 +53,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|ID_0101 : | Uma barra de pesquisa para filtragem de mercados | ALTA | 
+|ID_0101 : | Uma barra de pesquisa para filtragem de produtos | ALTA | 
 |ID_0102 : | Uma lista para o usuário anotar itens para ser comprados ao chegar no local | MÉDIA |
-|ID_0103 : | Um link para sites de mercados | MÉDIA |
-
+|ID_0103 : | Opção de favoritar um produto para ter acesso facilitado à ele | MÉDIA |
 
 
 ### Requisitos não Funcionais
@@ -64,8 +63,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
 |ID_0201| O sistema deve ser responsivo para rodar em um dispositivos móvel e desktop | ALTA | 
-|ID_0202| Deve processar a atualização dos produtos em no máximo 3 seg |  MÉDIA | 
-|ID_0203| Deve ser capacitado para fácil acessibilidade |  ALTA | 
+|ID_0202| Deve ser de fácil atualização de dados |  MÉDIA | 
+|ID_0203| Deve ser intuitivo e de fácil navegabilidade |  ALTA | 
 
 ## Restrições
 
@@ -73,6 +72,6 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Restrições                                            |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até a data 28/10/2021   |
+|01| O projeto deverá ser entregue até o final do semestre   |
 |02| Precisa ser desenvolvido em um módulo de frontend     | 
 
