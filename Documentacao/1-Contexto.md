@@ -11,9 +11,9 @@ O problema que este projeto busca resolver é a dificuldade de acesso aos preço
 O objetivo geral desse projeto é, através de um software, ajudar as pessoas a escolher onde comprar determinados produtos baseando-se no preço e em outros requisitos pessoais. 
 
 Alguns objetivos específicos são:
-- mostrar preços de produtos de um mercado pesquisado, através de um sistema de filtragem;
+- mostrar preços de um mesmo produto em mais de um mercado, através de um sistema de filtragem;
 - uma lista que o usuário poderá atualizar com os produtos que deseja comprar;
-- links que direcionarão aos sites de supermercados, facilitando ao usuário o acesso;
+- opção de favoritar determinado produto, fazendo-o aparecer na tela inicial para o usuário;
 - uma funcionalidade na qual os desenvolvedores terão acesso às opiniões e sugestões dos usuários;
 
 
