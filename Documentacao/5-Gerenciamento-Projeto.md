@@ -5,12 +5,12 @@ Nosso grupo atacou o problema de modo coletivo, fazendo diversas reuniões para 
 
 ## Divisão de Papéis
 
-Fizemos cada parte de modo cooperativo.
+O processo de design thinking foi feito através de colaboração de todo o grupo. Após isso, o projeto de interface foi trabalhado principalmente pelos membros Pedro Carbonaro e Mário , assim como a documentação da especificação do projeto. O restante da documentação foi feita majoritariamente pelo membro Hudsson Andrade.
 
 
 ## Processo
 
-A comunicação do grupo se deu por meio de mensagens e de chamadas de voz. O status do projeto foi documentado no site Trello.
+A comunicação do grupo se deu por meio de mensagens e de chamadas de voz. O status do projeto foi documentado no site Trello. Ao término de cada passo do projeto, o grupo avaliava em conjunto antes de decidir se devia ir para o próximo passo ou se melhoraria algo.
 
 
 ## Ferramentas
