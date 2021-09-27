@@ -73,3 +73,8 @@ Essa página permite ao usuário entrar em contato direto com os desenvolvedores
 > - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
 > - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
 -->
+
+## Protótipo Interativo
+
+A seguir está o link do protótipo interativo da interface do projeto, deselvolvido no Figma: 
+
