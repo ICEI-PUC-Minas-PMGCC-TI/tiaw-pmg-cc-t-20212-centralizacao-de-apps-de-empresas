@@ -37,10 +37,21 @@ A figura a seguir mostra os principais caminhos possíveis a serem percorridos p
 A seguir estão os wireframes do projeto:
 
 ### Página Inicial:
+É a primeira página que o usuário verá. Ela te dá acesso a todas as outras páginas e pode ser acessada de qualquer uma delas, através da logo do site. Ela mostra todos os mercados dos quais o site tem informação do preço de seus produtos, além do item favoritos, que dá acesso mais rápido à produtos que o usuário escolher. Há também a barra de pesquisa e no rodapé da página, o link para a página de comentários.
+
 ![pagina inicial](https://user-images.githubusercontent.com/90793478/134994944-2ec44c33-d4ef-4504-8554-9ce5536081d2.png)
+
+### Favoritos aberto:
+O item favoritos será aberto quando o usuário clicar nele. A escolha desse sistema se deu visando uma interface mais limpa.
 ![pagina favoritos](https://user-images.githubusercontent.com/90793478/134994961-b0c33704-e041-4601-b078-03234f638bd4.png)
+
+### Página de Pesquisa:
 ![pagina pesquisa](https://user-images.githubusercontent.com/90793478/134994971-8fe4c1cb-d9f0-4090-9f7d-920c5acfada1.png)
+
+### Página de Mercado:
 ![pagina mercado](https://user-images.githubusercontent.com/90793478/134994977-88caae16-e063-43ab-8423-b98c0e5651b3.png)
+
+### Fórum:
 ![pagina forum](https://user-images.githubusercontent.com/90793478/134994988-05189787-acfe-45f2-aba2-2014b4b29a73.png)
 
 <!--
