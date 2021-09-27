@@ -2,6 +2,8 @@ esse
 
 # Projeto de Interface
 
+O projeto de interface foi desenvolvido com foco em utilidade, praticidade e simplicidade de utilização.
+
 <span style="color:red">Pré-requisitos: <a href="2-Especificação.md"> Documentação de Especificação</a></span>
 
 > Apresente as principais a interface da plataforma. Discuta como ela
@@ -10,6 +12,11 @@ esse
 > Projeto](2-Especificação.md).
 
 ## User Flow
+
+A figura a seguir mostra os principais caminhos possíveis a serem percorridos pelo usuário:
+
+![Fluxo de usuário](https://user-images.githubusercontent.com/90793478/134994085-0a100cb1-0395-417c-ab27-1db454425c26.png)
+
 
 ![Exemplo de UserFlow](images/userflow.jpg)
 
