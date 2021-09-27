@@ -17,7 +17,8 @@
 > item textualmente comentando e complementando o que está apresentado
 > nas imagens.
 
-## Arquitetura da solução
+## Arquitetura da solução esse 
+
 
 > Inclua um diagrama da solução e descreva os módulos e as tecnologias
 > que fazem parte da solução. Discorra sobre o diagrama.
