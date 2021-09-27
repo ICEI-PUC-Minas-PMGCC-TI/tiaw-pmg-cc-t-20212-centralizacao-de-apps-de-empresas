@@ -34,6 +34,9 @@ A figura a seguir mostra os principais caminhos possíveis a serem percorridos p
 -->
 ## Wireframes
 
+A seguir estão os wireframes do projeto:
+
+### Página Inicial:
 ![pagina inicial](https://user-images.githubusercontent.com/90793478/134994944-2ec44c33-d4ef-4504-8554-9ce5536081d2.png)
 ![pagina favoritos](https://user-images.githubusercontent.com/90793478/134994961-b0c33704-e041-4601-b078-03234f638bd4.png)
 ![pagina pesquisa](https://user-images.githubusercontent.com/90793478/134994971-8fe4c1cb-d9f0-4090-9f7d-920c5acfada1.png)
