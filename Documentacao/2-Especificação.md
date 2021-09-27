@@ -54,7 +54,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
 |ID_0101 : | Uma barra de pesquisa para filtragem de produtos | ALTA | 
-|ID_0102 : | Uma lista para o usuário anotar itens para ser comprados ao chegar no local | MÉDIA |
+|ID_0102 : | A opção de comentar sugestões, elogios e perguntas | MÉDIA |
 |ID_0103 : | Opção de favoritar um produto para ter acesso facilitado à ele | MÉDIA |
 
 
