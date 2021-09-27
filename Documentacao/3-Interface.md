@@ -43,15 +43,22 @@ A seguir estão os wireframes do projeto:
 
 ### Favoritos aberto:
 O item favoritos será aberto quando o usuário clicar nele. A escolha desse sistema se deu visando uma interface mais limpa.
+
 ![pagina favoritos](https://user-images.githubusercontent.com/90793478/134994961-b0c33704-e041-4601-b078-03234f638bd4.png)
 
 ### Página de Pesquisa:
+A página de pesquisa permite ao usuário filtrar os produtos desejados, facilitando o acesso às suas informações.
+
 ![pagina pesquisa](https://user-images.githubusercontent.com/90793478/134994971-8fe4c1cb-d9f0-4090-9f7d-920c5acfada1.png)
 
 ### Página de Mercado:
+Essa página é acessada ao se clicar em um determinado mercado, trazendo ao usuário informações específicas daquele mercado. Há ainda a opção de se procurar por um produto específico naquele mercado através da barra de pesquisa.
+
 ![pagina mercado](https://user-images.githubusercontent.com/90793478/134994977-88caae16-e063-43ab-8423-b98c0e5651b3.png)
 
 ### Fórum:
+Essa página permite ao usuário entrar em contato direto com os desenvolvedores do site, trazendo a opção de comentários.
+
 ![pagina forum](https://user-images.githubusercontent.com/90793478/134994988-05189787-acfe-45f2-aba2-2014b4b29a73.png)
 
 <!--
