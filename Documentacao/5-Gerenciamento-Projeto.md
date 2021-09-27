@@ -5,7 +5,7 @@ Nosso grupo atacou o problema de modo coletivo, fazendo diversas reuniões para 
 
 ## Divisão de Papéis
 
-O processo de design thinking foi feito através de colaboração de todo o grupo. Após isso, o projeto de interface foi trabalhado principalmente pelos membros Pedro Carbonaro e Mário , assim como a documentação da especificação do projeto. O restante da documentação foi feita majoritariamente pelo membro Hudsson Andrade.
+O processo de design thinking foi feito através de colaboração de todo o grupo. Após isso, o projeto de interface foi trabalhado principalmente pelos membros Pedro Carbonaro, Hudsson Apolinario e Mário do Vale , assim como a documentação da especificação do projeto. O restante da documentação foi feita majoritariamente pelo membro Hudsson Andrade. E os slides foram feitos unicamente pelo Mário do Vale.
 
 
 ## Processo
