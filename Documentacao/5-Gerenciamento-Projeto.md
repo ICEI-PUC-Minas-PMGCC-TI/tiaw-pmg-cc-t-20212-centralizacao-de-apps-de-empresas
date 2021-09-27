@@ -19,7 +19,7 @@ As ferramentas utilizadas durante o desenvolvimento do projeto são:
 
 - Ferramentas de diagramação: Miro: https://miro.com/app/board/o9J_lzEjN_w=/
 - Ferramenta de gerenciamento do projeto: Trello: https://trello.com/b/u8EUsVpU/template-kanban
-- Ferramenta de esboço de interface: Figma: 
+- Ferramenta de esboço de interface: Figma
 - Ferramenta de comunicação: Teams
 
 
