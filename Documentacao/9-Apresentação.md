@@ -10,9 +10,9 @@
 ## Título do Projeto
 
 Centralização do Consumo
-
-> Nome e marca do projeto
 <!--
+> Nome e marca do projeto
+
 ## Identidade Visual (Marca, Design)
 > O grupo deve ter o cuidado em utilizar figuras, imagens, e
 > cores dentro do contexto da solução proposta, de forma a
