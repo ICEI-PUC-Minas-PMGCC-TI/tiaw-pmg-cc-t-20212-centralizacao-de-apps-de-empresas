@@ -76,5 +76,5 @@ Essa página permite ao usuário entrar em contato direto com os desenvolvedores
 
 ## Protótipo Interativo
 
-A seguir está o link do protótipo interativo da interface do projeto, deselvolvido no Figma: 
+A seguir está o link do protótipo interativo da interface do projeto, deselvolvido no Figma: https://www.figma.com/proto/WPmf69XL9akMly3xaRHUc8/hudsson-de-andrade-s-team-library?node-id=0%3A1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=334%3A490
 
