@@ -21,6 +21,11 @@
 > - [Especialista do TED dá 10 dicas para criar slides eficazes e bonitos](https://soap.com.br/blog/especialista-do-ted-da-10-dicas-para-criar-slides-eficazes-e-bonitos)
 
 ## Conjunto de Slides (Estrutura)
+
+Segue os slides utilizados na apresentação:
+
+[TRABALHO INTERDISCIPLINAR.pptx](https://github.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-t-20212-centralizacao-de-apps-de-empresas/files/7247715/TRABALHO.INTERDISCIPLINAR.pptx)
+
 > O grupo deve distribuir de forma coerente o conteúdo a ser
 > apresentado, dentro do tempo determinado. Importante ressaltar
 > a importância da descrição clara de todo o andamento do projeto,
