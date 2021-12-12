@@ -8351,3 +8351,8 @@ a[data-toggle="collapse"] {
 .imagemCartao {
     margin-top: 5px;
 }
+
+img {
+    max-width: 100px;
+    max-height: 100px;
+}
