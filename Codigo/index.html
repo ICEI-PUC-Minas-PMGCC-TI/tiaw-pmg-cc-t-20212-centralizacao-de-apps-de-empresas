@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <title>SmartMarket</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800,900" rel="stylesheet">
+
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="style.css">
+  <script src="app.js"></script>
+</head>
+
+<body onload="isAdmin(),mercadosIndex()">
+        
+  <div class="wrapper d-flex align-items-stretch">
+      <div  style="display: block;" id="sidebar" class="active" >
+
+    </div> 
+    
+
+    <!-- Conteúdo da página --> 
+    <div id="content" class="p-4 p-md-5">
+
+      <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <div class="container-fluid">
+
+          <button type="button" id="sidebarCollapse" class="btn btn-primary">
+            <i class="fa fa-bars"></i>
+            <span class="sr-only">Toggle Menu</span>
+          </button>
+          <button class="btn btn-dark d-inline-block d-lg-none ml-auto" type="button" data-toggle="collapse"
+            data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+            aria-label="Toggle navigation">
+            <i class="fa fa-bars"></i>
+          </button>
+
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="nav navbar-nav ml-auto">
+              <li class="nav-item active">
+                <a class="nav-link" href="index.html">Início</a>
+              </li>
+            <li class="nav-item">
+                <a class="nav-link" href="pesquisa.html">Pesquisa</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="contatos.html">Contatos</a>
+              </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#" onclick="logoutUser()">Logout</a>
+            </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+      <!-- Titulo -->
+      <h2 class="mb-4">Mercados</h2>
+
+      </h4>
+      <hr>
+      <div class="text-center"><input oninput="mercadosIndex()" style="min-width: 30%;" id="pesquisaMercado" placeholder="Pesquisar Mercado" type="text"></div>
+      <hr>
+      <div id="telaMercados"></div>
+      </div>
+    </div>
+
+    <script src="js/jquery.min.js"></script>
+    <script src="js/popper.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/main.js"></script>
+  </div>
+  <footer style="background-color: grey; color: black">
+    <div class="container">
+      <div class="row">
+
+        <div class="col-sm-3">
+          <h3 class="footer_h3">Links Rápidos</h3>
+          <ul class="footer_ul">
+            <li><a style="color: black; text-decoration: none;" href="index.html">Início</a></li>
+            <li><a style="color: black; text-decoration: none;" href="pesquisa.html">Pesquisa</a></li>
+          </ul>
+        </div>
+
+        <div class="col-sm-3">
+          <h3 class="footer_h3">Contatos</h3>
+          <ul class="footer_ul">
+            <li><a style="color: black; text-decoration: none;" href="contatos.html">Fale Conosco</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="copyright">
+      <div class="container">
+        <div class="row">
+          <p>© Copyright 2021. SmartMarket</p>
+        </div>
+      </div>
+    </div>
+  </footer>
+</body>
+</html>
