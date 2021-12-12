@@ -46,38 +46,44 @@ function incluirProduto (){
     let strEstoque = document.getElementById ('campoEstoque').value;
     let strMarca = document.getElementById ('campoMarca').value;
     let strUnidade = document.getElementById ('campoUnidade').value;
-    let strImagem = document.getElementById ('campoImagem').value;
-    let novoProduto = {
-        Produto: strProduto,
-        Mercado: mercado,
-        Categoria: strCategoria,
-        Preco: strPreco,
-        Imagem: strImagem,
-        Unidade: strUnidade,
-        Estoque: strEstoque,
-        Marca: strMarca
-    };
-    if ( mercado!='')
-    {
-        if(strPreco!='' && strProduto!='' && strCategoria!='' && strEstoque!='' && strMarca!='' && strUnidade!='' && strImagem!='')
+    let strImagem = document.getElementById ('campoImagem').files[0];
+    let fr = new FileReader ();
+    fr.readAsDataURL (strImagem); 
+    fr.onloadend = function () {
+        let img = fr.result;
+        let novoProduto = {
+            Produto: strProduto,
+            Mercado: mercado,
+            Categoria: strCategoria,
+            Preco: strPreco,
+            Imagem: img,
+            Unidade: strUnidade,
+            Estoque: strEstoque,
+            Marca: strMarca
+        };
+        if ( mercado!='')
         {
-            objDados.produtos.push (novoProduto);
+            if(strPreco!='' && strProduto!='' && strCategoria!='' && strEstoque!='' && strMarca!='' && strUnidade!='')
+            {
+                objDados.produtos.push (novoProduto);
+            }
+            else
+            {
+                alert("Algum campo não foi preenchido");
+            }
         }
         else
         {
-            alert("Algum campo não foi preenchido");
+            alert("Mercado não selecionado");
         }
-    }
-    else
-    {
-        alert("Mercado não selecionado");
+    
+        // Salvar os dados no localStorage novamente
+        salvaProdutos (objDados);
+    
+        // Atualiza os dados da tela
+        imprimeProdutosTabela ();            
     }
 
-    // Salvar os dados no localStorage novamente
-    salvaProdutos (objDados);
-
-    // Atualiza os dados da tela
-    imprimeProdutosTabela ();
 }
 
 function imprimeProdutosTabela () {
@@ -224,7 +230,6 @@ function editarProdutos (numero)
     <p>Marca: <br><input value="${objDados.produtos[numero].Marca}" type="text" id="campoMarca"></p>
     <p>Unidade: <br><input value="${objDados.produtos[numero].Unidade}" type="text" id="campoUnidade"></p>
     <p>Estoque: <br><input value="${objDados.produtos[numero].Estoque}" type="number" id="campoEstoque"></p>
-    <p>Imagem: <br><input value="${objDados.produtos[numero].Imagem}" type="text" id="campoImagem"></p>
     <p><button onClick="salvarProdutoEditado(${numero})">Salvar</button>
     <p>`;
 
@@ -244,7 +249,6 @@ function salvarProdutoEditado (numero)
     let strEstoque = document.getElementById ('campoEstoque').value;
     let strMarca = document.getElementById ('campoMarca').value;
     let strUnidade = document.getElementById ('campoUnidade').value;
-    let strImagem = document.getElementById ('campoImagem').value;
     
     if (strProduto!='' && strCategoria!='' && strPreco!='' && strEstoque!='' && strMarca!='' && strUnidade!='' && strImagem!='')
     {
@@ -253,7 +257,7 @@ function salvarProdutoEditado (numero)
             Mercado: merc,
             Categoria: strCategoria,
             Preco: strPreco,
-            Imagem: strImagem,
+            Imagem: objDados.produtos[numero].Imagem,
             Unidade: strUnidade,
             Estoque: strEstoque,
             Marca: strMarca
@@ -450,29 +454,36 @@ function incluirMercado() {
     let strBairro = document.getElementById('campoBairro').value;
     let strRuaNumero = document.getElementById('campoRuaNumero').value;
     let strTelefone = document.getElementById('campoTelefone').value;
-    let novoMercado = {
-        Mercado: strMercado,
-        id: strid,
-        Estado: strEstado,
-        Cidade: strCidade,
-        Bairro: strBairro,
-        RuaNumero: strRuaNumero,
-        Telefone: strTelefone,
-    };
-
-    if(strMercado!='' && strEstado!='' && strCidade!='' && strBairro!='' && strRuaNumero!='' && strTelefone!='')
-    {
-        objDados.mercados.push(novoMercado);
-
-        // Salvar os dados no localStorage novamente
-        salvaMercados(objDados);
+    let strImagem = document.getElementById ('campoLogo').files[0];
+    let fr = new FileReader ();
+    fr.readAsDataURL (strImagem); 
+    fr.onloadend = function () {
+        let img = fr.result;
+        let novoMercado = {
+            Mercado: strMercado,
+            Logo: img,
+            id: strid,
+            Estado: strEstado,
+            Cidade: strCidade,
+            Bairro: strBairro,
+            RuaNumero: strRuaNumero,
+            Telefone: strTelefone,
+        };
     
-        // Atualiza os dados da tela
-        imprimeMercadosTabela();
-    }
-    else
-    {
-        alert("Algum campo não foi preenchido");
+        if(img!='' && strMercado!='' && strEstado!='' && strCidade!='' && strBairro!='' && strRuaNumero!='' && strTelefone!='')
+        {
+            objDados.mercados.push(novoMercado);
+    
+            // Salvar os dados no localStorage novamente
+            salvaMercados(objDados);
+        
+            // Atualiza os dados da tela
+            imprimeMercadosTabela();
+        }
+        else
+        {
+            alert("Algum campo não foi preenchido");
+        }
     }
 }
 
@@ -849,6 +860,55 @@ function salvaLogin (event) {
     //document.getElementById ('loginModal').style.display = 'none';
     $('#loginModal').modal('hide');
 }
+
+// ------------------- UPLOAD ---------------------------
+
+// function uploadImage () {
+//     let arquivo_path = document.getElementById ('inputImage').files[0];
+//     let fr = new FileReader ();
+
+//     fr.onloadend = function () {
+//         document.getElementById ('tela').innerHTML = `<img src="${fr.result}">`
+        
+//         let album = JSON.parse (localStorage.getItem ('album'));
+//         if (!album) {
+//             album = []
+//         }
+//         let nome = document.getElementById ('inputNome').value
+//         let img = fr.result
+        
+//         let foto = { nome, img }
+//         album.push (foto);
+
+//         localStorage.setItem ('album', JSON.stringify (album));
+//     }
+
+//     fr.readAsDataURL (arquivo_path); 
+// }
+
+function uploadImage () {
+    let arquivo_path = document.getElementById ('campoImagem').files[0];
+    let fr = new FileReader ();
+
+    fr.onloadend = function () {
+        document.getElementById ('tela').innerHTML = `<img src="${fr.result}">`
+        
+        let album = JSON.parse (localStorage.getItem ('album'));
+        if (!album) {
+            album = []
+        }
+        let nome = document.getElementById ('inputNome').value
+        let img = fr.result
+        
+        let foto = { nome, img }
+        album.push (foto);
+
+        localStorage.setItem ('album', JSON.stringify (album));
+    }
+
+    fr.readAsDataURL (arquivo_path); 
+}
+
 
 // ------------------- BOTOES ---------------------------
 
