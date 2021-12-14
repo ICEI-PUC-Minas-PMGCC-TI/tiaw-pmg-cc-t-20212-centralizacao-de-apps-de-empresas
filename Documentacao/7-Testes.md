@@ -14,15 +14,18 @@ Avaliação Heurística – Checklist
 |--|--------------|---------------------|------------|
 ||1 - Visibilidade do status do sistema ||
 |1.1|As telas do sistema iniciam com um título que descreve seu conteúdo?|O         O         O |
+|1.2|O ícone selecionado é destacado dos demais não selecionados? |O         O         O |
+|1.3|As telas do sistema iniciam com um título que descreve seu conteúdo?|O         O         O |
+|1.4|As telas do sistema iniciam com um título que descreve seu conteúdo?|O         O         O |
+|1.1|As telas do sistema iniciam com um título que descreve seu conteúdo?|O         O         O |
+|1.1|As telas do sistema iniciam com um título que descreve seu conteúdo?|O         O         O |
+|1.1|As telas do sistema iniciam com um título que descreve seu conteúdo?|O         O         O |
+|1.1|As telas do sistema iniciam com um título que descreve seu conteúdo?|O         O         O |
+|1.1|As telas do sistema iniciam com um título que descreve seu conteúdo?|O         O         O |
+|1.1|As telas do sistema iniciam com um título que descreve seu conteúdo?|O         O         O |
+|1.1|As telas do sistema iniciam com um título que descreve seu conteúdo?|O         O         O |
 
  
-
-1.2 
-
-O ícone selecionado é destacado dos demais não selecionados? 
-
-O         O         O 
-
  
 
 1.3 
