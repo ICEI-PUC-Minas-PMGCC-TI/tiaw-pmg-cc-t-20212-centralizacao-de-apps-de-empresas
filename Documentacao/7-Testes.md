@@ -1,5 +1,7 @@
 # Avaliação da Aplicação
 
+Para testar o software em funcionamento, na hora de logar, utilize o usuário "user" e a senha "123" para a conta de usuário, e usuário "admin" e a mesma senha para a conta de admnistrador.
+
 <span style="color:red">Pré-requisitos: <a href="6-Implementação.md"> Projeto da Solução</a></span>
 
 - Site publicado na Internet
