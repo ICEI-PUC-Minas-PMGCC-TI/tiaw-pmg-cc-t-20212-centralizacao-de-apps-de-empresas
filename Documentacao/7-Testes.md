@@ -10,14 +10,10 @@
 ## Plano de Testes
 
 Avaliação Heurística – Checklist 
+|ID|Característica|Sim      Não      N/A|Comentários |
 
-ID 
 
-Característica 
 
-Sim      Não      N/A 
-
-Comentários 
 
 1 - Visibilidade do status do sistema 
 
