@@ -34,9 +34,10 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|ID_0101 : | Uma barra de pesquisa para filtragem de produtos | ALTA | 
-|ID_0102 : | A opção de comentar sugestões, elogios e perguntas | MÉDIA |
-|ID_0103 : | Opção de favoritar um produto para ter acesso facilitado à ele | MÉDIA |
+|ID_0101 : | Acesso à todos os mercados da página inicial, e ao clicar em certo mercado ir para a página dele | ALTA | 
+|ID_0102 : | Uma barra de pesquisa para filtragem de produtos na página de pesquisa, onde também será possível filtrar os produtos por mercado  | ALTA | 
+|ID_0103 : | Fácil visualização das informações de produtos e mercados por meio de cartão com nome, foto e outras infomrações relevantes como preço ppara os produtos, e localização para os mercados | MÉDIA |
+|ID_0104 : | Software com navegação simples e intuitiva de modo que seja possível acessar qualquer página do site independente da página atual | MÉDIA |
 
 
 ### Requisitos não Funcionais
