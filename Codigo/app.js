@@ -47,43 +47,48 @@ function incluirProduto (){
     let strMarca = document.getElementById ('campoMarca').value;
     let strUnidade = document.getElementById ('campoUnidade').value;
     let strImagem = document.getElementById ('campoImagem').files[0];
-    let fr = new FileReader ();
-    fr.readAsDataURL (strImagem); 
-    fr.onloadend = function () {
-        let img = fr.result;
-        let novoProduto = {
-            Produto: strProduto,
-            Mercado: mercado,
-            Categoria: strCategoria,
-            Preco: strPreco,
-            Imagem: img,
-            Unidade: strUnidade,
-            Estoque: strEstoque,
-            Marca: strMarca
-        };
-        if ( mercado!='')
-        {
-            if(strPreco!='' && strProduto!='' && strCategoria!='' && strEstoque!='' && strMarca!='' && strUnidade!='')
+    if(strImagem==undefined)
+    {alert("Logo não selecionada");}
+    else
+    {
+        let fr = new FileReader ();
+        fr.readAsDataURL (strImagem); 
+
+        fr.onloadend = function () {
+            let img = fr.result;
+            let novoProduto = {
+                Produto: strProduto,
+                Mercado: mercado,
+                Categoria: strCategoria,
+                Preco: strPreco,
+                Imagem: img,
+                Unidade: strUnidade,
+                Estoque: strEstoque,
+                Marca: strMarca
+            };
+            if ( mercado!='')
             {
-                objDados.produtos.push (novoProduto);
+                if(strPreco!='' && strProduto!='' && strCategoria!='' && strEstoque!='' && strMarca!='' && strUnidade!='')
+                {
+                    objDados.produtos.push (novoProduto);
+                }
+                else
+                {
+                    alert("Algum campo não foi preenchido");
+                }
             }
             else
             {
-                alert("Algum campo não foi preenchido");
+                alert("Mercado não selecionado");
             }
+        
+            // Salvar os dados no localStorage novamente
+            salvaProdutos (objDados);
+        
+            // Atualiza os dados da tela
+            imprimeProdutosTabela ();            
         }
-        else
-        {
-            alert("Mercado não selecionado");
-        }
-    
-        // Salvar os dados no localStorage novamente
-        salvaProdutos (objDados);
-    
-        // Atualiza os dados da tela
-        imprimeProdutosTabela ();            
     }
-
 }
 
 function imprimeProdutosTabela () {
@@ -455,34 +460,39 @@ function incluirMercado() {
     let strRuaNumero = document.getElementById('campoRuaNumero').value;
     let strTelefone = document.getElementById('campoTelefone').value;
     let strImagem = document.getElementById ('campoLogo').files[0];
-    let fr = new FileReader ();
-    fr.readAsDataURL (strImagem); 
-    fr.onloadend = function () {
-        let img = fr.result;
-        let novoMercado = {
-            Mercado: strMercado,
-            Logo: img,
-            id: strid,
-            Estado: strEstado,
-            Cidade: strCidade,
-            Bairro: strBairro,
-            RuaNumero: strRuaNumero,
-            Telefone: strTelefone,
-        };
-    
-        if(img!='' && strMercado!='' && strEstado!='' && strCidade!='' && strBairro!='' && strRuaNumero!='' && strTelefone!='')
-        {
-            objDados.mercados.push(novoMercado);
-    
-            // Salvar os dados no localStorage novamente
-            salvaMercados(objDados);
+    if(strImagem==undefined)
+    {alert("Logo não selecionada");}
+    else
+    {
+        let fr = new FileReader ();
+        fr.readAsDataURL (strImagem); 
+        fr.onloadend = function () {
+            let img = fr.result;
+            let novoMercado = {
+                Mercado: strMercado,
+                Logo: img,
+                id: strid,
+                Estado: strEstado,
+                Cidade: strCidade,
+                Bairro: strBairro,
+                RuaNumero: strRuaNumero,
+                Telefone: strTelefone,
+            };
         
-            // Atualiza os dados da tela
-            imprimeMercadosTabela();
-        }
-        else
-        {
-            alert("Algum campo não foi preenchido");
+            if(img!='' && strMercado!='' && strEstado!='' && strCidade!='' && strBairro!='' && strRuaNumero!='' && strTelefone!='')
+            {
+                objDados.mercados.push(novoMercado);
+        
+                // Salvar os dados no localStorage novamente
+                salvaMercados(objDados);
+            
+                // Atualiza os dados da tela
+                imprimeMercadosTabela();
+            }
+            else
+            {
+                alert("Algum campo não foi preenchido");
+            }
         }
     }
 }
@@ -548,13 +558,14 @@ function filtraProdutos()
                 <div class="card text-center">
                     <div class="card-header">
                         <h5>${objDados.produtos[i].Produto}</h5>
+                        <h6 class="card-text">${objDados.produtos[i].Marca}</h6>
                         <p class="card-text">${objDados.produtos[i].Categoria}</p>
                     </div>
                     <div class="float-center">
                         <img src="${objDados.produtos[i].Imagem}" class="imagemCartao" width="100px" height="100px" alt="${objDados.produtos[i].Produto}"></img>
                     </div>
                     <div class="card-body">
-                        <p class="card-text">${objMercado.mercados[j].Mercado}</p>
+                        <p class="card-text">${objMercado.mercados[j].Mercado}<br>${objMercado.mercados[j].Bairro}</p>
                         <h5 class="card-title">R$${objDados.produtos[i].Preco} / ${objDados.produtos[i].Unidade}</h5>
                     </div>
                     <div class="card-footer text-muted">
@@ -578,7 +589,7 @@ function isAdmin ()
 {
 
     let tela = document.getElementById('sidebar');
-    let strSideBar =     `<h1><a href="index.html" class="logo">SM</a></h1>
+    let strSideBar =     `<div id="logoSM"><h1><a href="index.html" class="logo">SM</a></h1></div>
                             <ul class="list-unstyled components mb-5">
                                 <li class="active">
                                     <a href="index.html"><span class="fa fa-home"></span> Ínicio</a>
@@ -863,29 +874,6 @@ function salvaLogin (event) {
 
 // ------------------- UPLOAD ---------------------------
 
-// function uploadImage () {
-//     let arquivo_path = document.getElementById ('inputImage').files[0];
-//     let fr = new FileReader ();
-
-//     fr.onloadend = function () {
-//         document.getElementById ('tela').innerHTML = `<img src="${fr.result}">`
-        
-//         let album = JSON.parse (localStorage.getItem ('album'));
-//         if (!album) {
-//             album = []
-//         }
-//         let nome = document.getElementById ('inputNome').value
-//         let img = fr.result
-        
-//         let foto = { nome, img }
-//         album.push (foto);
-
-//         localStorage.setItem ('album', JSON.stringify (album));
-//     }
-
-//     fr.readAsDataURL (arquivo_path); 
-// }
-
 function uploadImage () {
     let arquivo_path = document.getElementById ('campoImagem').files[0];
     let fr = new FileReader ();
@@ -907,6 +895,21 @@ function uploadImage () {
     }
 
     fr.readAsDataURL (arquivo_path); 
+}
+
+function logoNome(){
+    logo = document.getElementById("logoSM");
+    if (logo.innerHTML == `<h1><a href="index.html" class="logo">SM</a></h1>`)
+    {
+        setTimeout(function () 
+        {
+            logo.innerHTML = `<h3><a href="index.html" class="logo">SmartMarket</a></h3>`;
+        },150);    
+    }
+    else
+    {
+        logo.innerHTML = `<h1><a href="index.html" class="logo">SM</a></h1>`;
+    }
 }
 
 
