@@ -12,7 +12,7 @@
   <link rel="stylesheet" href="style.css">
 </head>
 
-<body onload="mostrarSeletor()">
+<body onload="mostrarSeletor(), isAdmin()">
 
   <div class="wrapper d-flex align-items-stretch">
     <nav id="sidebar" class="active">
@@ -142,7 +142,7 @@
   <script>
     document.getElementById ('btnCarregaDados').addEventListener ('click', imprimeProdutosTabela);
     document.getElementById ('btnAdicionarProduto').addEventListener ('click', incluirProduto);
-
+    document.getElementById ('sidebarCollapse').addEventListener ('click', logoNome);
   </script>
   <style>    
   select {
