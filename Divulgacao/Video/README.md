@@ -1,4 +1,4 @@
 # Divulgação: Vídeo do Projeto
 
-Nesta pasta inclua arquivos de vídeo produzidos para divulgação do projeto e seus resutados.
-
+Link para o vídeo de divulgação do projeto SmartMarket:
+https://youtu.be/jeWZY3NiYWY
