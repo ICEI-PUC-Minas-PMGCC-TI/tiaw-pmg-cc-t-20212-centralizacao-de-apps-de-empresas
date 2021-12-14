@@ -1,6 +1,8 @@
 # Especificações Do Projeto
 ## Persona (1)
 
+![image](https://user-images.githubusercontent.com/90793478/146013340-3bdd52d2-dcfa-4b61-9b8e-4c9bf6f8230e.png)
+
 Maria das Graças, tem 43 anos e tem hábitos como cuidar dos filhos, ir à missa e fazer as compras de casa. Se sustenta com um emprego de faxina
 e tem a frustração de não ter uma condição de dar melhores oportunidades ao seus filhos, assim encontrando desafios como sustentar, juntamento com seu marido, seus
 3 filhos. Por ser dona de casa tem um hábito de compra continuo em supermercados cerca de 2 vezes ao mês e sempre anota os preços e locais de produtos para poder
