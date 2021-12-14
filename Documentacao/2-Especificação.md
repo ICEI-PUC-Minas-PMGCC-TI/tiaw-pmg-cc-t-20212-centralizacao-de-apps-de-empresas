@@ -11,6 +11,8 @@ Whatsapp.Sempre leva como critério de decisão na hora da compra o preço dos p
 
 ## Persona (2)
 
+![image](https://user-images.githubusercontent.com/90793478/146013624-7af130c6-aaa8-4c5f-8bd7-a68d4c6c0690.png)
+
 Suélen Fária, tem 52 anos e faz marmitas caseiras como sustento. Como trabalha nesta área da gastronomia tem algumas frustações como ter que parar para anotar os
 preços quando passa uma propaganda de promoções de mercado e guardar panfletos para comprar preços e tem alguns desafios para conseguir manter o lucro com as marmitas
 apesar do aumento dos preços dos produtos. Tem grandes hábitos como fazer compras em grandes quantidades 2 vezes ao mês para manter a produção das marmitas e sempre
@@ -19,6 +21,8 @@ de informações a internet e redes sociais como facebook e Whatsapp como notici
 qualidade dos produtos.
 
 ## Persona (3)
+
+![image](https://user-images.githubusercontent.com/90793478/146013687-6f082c97-6ad8-4410-bd94-95a585f59565.png)
 
 João da Silva Freitas, tem 45 anos e trabalha como funcionário público e por ser muito meticuloso sempre planeja o que comprar antes de sair de casa e não tem costume
 de comprar os produtos por impulsividade, prefere sempre comparar preços de diversos lugares para garantir a melhor qualidade com o melhor preço. Por seguir por estes
@@ -29,6 +33,8 @@ vezes informações da televisão com anúncios de produtos porém bem menos fre
 preço dos produtos.
 
 ## Persona (4)
+
+![image](https://user-images.githubusercontent.com/90793478/146013550-ede3312b-f6c4-44b2-9302-551d8c6dc667.png)
 
 Ana Pereira Carvalho, tem 27 anos e tem o hábito de estudar, trabalhar e cuidar da casa para o seu próprio sustento. Atualmente ela trabalha meio horário e tem uma
 pequena ajuda financeira da sua família, sendo assim vem encontrando desafios para ter tempo e dinheiro para curtir momentos de lazeres. Já que mora sozinha, ela
