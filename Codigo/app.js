@@ -603,7 +603,7 @@ function salvarProdutoEditado (numero)
     let strMarca = document.getElementById ('campoMarca').value;
     let strUnidade = document.getElementById ('campoUnidade').value;
     
-    if (strProduto!='' && strCategoria!='' && strPreco!='' && strEstoque!='' && strMarca!='' && strUnidade!='' && strImagem!='')
+    if (strProduto!='' && strCategoria!='' && strPreco!='' && strEstoque!='' && strMarca!='' && strUnidade!='')
     {
         objDados.produtos[numero] = {
             Produto: strProduto,
