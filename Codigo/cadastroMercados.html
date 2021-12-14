@@ -12,7 +12,7 @@
   <link rel="stylesheet" href="style.css">
 </head>
 
-<body>
+<body onload="isAdmin()">
 
   <div class="wrapper d-flex align-items-stretch">
     <nav id="sidebar" class="active">
@@ -139,6 +139,7 @@
   <script>
     document.getElementById('btnCarregaMercados').addEventListener('click', imprimeMercadosTabela);
     document.getElementById('btnAdicionarMercado').addEventListener('click', incluirMercado);
+    document.getElementById ('sidebarCollapse').addEventListener ('click', logoNome);
   </script>
 </body>
 
