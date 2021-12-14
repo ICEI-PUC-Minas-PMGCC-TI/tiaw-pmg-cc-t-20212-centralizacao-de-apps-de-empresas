@@ -7,35 +7,13 @@
 
 ## Controle de Versão
 
-A ferramenta de controle de versão adotada no projeto foi o
-[Git](https://git-scm.com/), sendo que o [Github](https://github.com)
-foi utilizado para hospedagem do repositório `upstream`.
+O [Github](https://github.com) foi a ferramenta adotada tanto para controle de versão quanto para hospedagemdo 
+repositório. Com relação à branchs, foi utilizada somente a branck master.
 
-O projeto segue a seguinte convenção para o nome de branchs:
-
-- `master`: versão estável já testada do software
-- `unstable`: versão já testada do software, porém instável
-- `testing`: versão em testes do software
-- `dev`: versão de desenvolvimento do software
-
-Quanto à gerência de issues, o projeto adota a seguinte convenção para
-etiquetas:
-
-- `bugfix`: uma funcionalidade encontra-se com problemas
-- `enhancement`: uma funcionalidade precisa ser melhorada
-- `feature`: uma nova funcionalidade precisa ser introduzida
-
-> Discuta como a configuração do projeto foi feita na ferramenta de
-> versionamento escolhida. Exponha como a gerência de tags, merges,
-> commits e branchs é realizada. Discuta como a gerência de issues foi
-> realizada.
->
-> **Links Úteis**:
-> - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
-> - [Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
 
 ## Hospedagem
 
+A hospedagem do software funcional foi feita na plataforma [Repl.it](https://replit.com/~?from=landing)
 > Explique como a hospedagem e o lançamento da plataforma foi feita.
 >
 > **Links Úteis**:
