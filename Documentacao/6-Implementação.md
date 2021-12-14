@@ -4,6 +4,8 @@
 
 ## Tecnologias Utilizadas
 
+Em nosso projeto, utilizamos as linguagens HTML, CSS e JavaScript. Utilizamos também o LocalStorage para armazenar os dados de mercados, produtos e usuários, e o SessionStorage, para se ter conhecimento da pessoa logada.
+
 > Descreva aqui qual(is) tecnologias você vai usar para resolver o seu
 > problema, ou seja, implementar a sua solução. Liste todas as
 > tecnologias envolvidas, linguagens a serem utilizadas, serviços web,
@@ -17,8 +19,11 @@
 > item textualmente comentando e complementando o que está apresentado
 > nas imagens.
 
-## Arquitetura da solução esse 
+## Arquitetura da solução
 
+![image](https://user-images.githubusercontent.com/90793478/146096034-21996b40-a33f-400c-9b9e-7b4c89411a8e.png)
+
+Na página de login é onde há a consulta ao item de usuários do LocalStorage, para garantir que para que o usuário possa acessar o conteúdo do site, ele tenha uma conta.
 
 > Inclua um diagrama da solução e descreva os módulos e as tecnologias
 > que fazem parte da solução. Discorra sobre o diagrama.
