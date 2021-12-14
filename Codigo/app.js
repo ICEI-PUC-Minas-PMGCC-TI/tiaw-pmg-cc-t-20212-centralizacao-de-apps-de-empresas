@@ -1117,7 +1117,7 @@ function salvaLoginAdm () {
 
     // Adiciona o usuário no banco de dados
     addAdm (nome, login, senha, email, cpf, telefone);
-    alert ('Usuário salvo com sucesso.');
+    alert ('Administrador salvo com sucesso.');
 
 
     document.getElementById('campoUsuario').value = '';
@@ -1213,7 +1213,7 @@ function salvaLogin (event) {
 
     // Adiciona o usuário no banco de dados
     addUser (nome, login, senha, email, cpf, telefone);
-    alert ('Usuário salvo com sucesso. Proceda com o login para ');
+    alert ('Usuário salvo com sucesso.');
 
     // Oculta a div modal do login
     //document.getElementById ('loginModal').style.display = 'none';
