@@ -12,7 +12,7 @@
   <link rel="stylesheet" href="style.css">
 </head>
 
-<body>
+<body onload="isAdmin()">
 
   <div class="wrapper d-flex align-items-stretch">
     <nav id="sidebar" class="active">
@@ -138,5 +138,8 @@
     </div>
   </footer>
 </body>
+<script>
+    document.getElementById ('sidebarCollapse').addEventListener ('click', logoNome);
+</script>
 
 </html>
