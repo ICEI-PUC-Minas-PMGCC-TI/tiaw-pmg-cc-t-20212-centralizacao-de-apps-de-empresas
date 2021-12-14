@@ -4,7 +4,7 @@ O crescimento do uso da internet nos últimos anos desencadeou mudanças em dive
 
 ## Problema
 
-O problema que este projeto busca resolver é a dificuldade de acesso aos preços de produtos de supermercados.
+O problema que este projeto busca resolver é a dificuldade de acesso aos preços de produtos de supermercados, que tem como consequência um tempo considerável tendo que ser gasto para que as pessoas possam economizar, além disso, as poucas fontes que trazem essas informações, são confusas e tornam algo simples como commparar o preço de um mesmo produto em dois mercados diferentes, complicado.
 
 ## Objetivos
 
@@ -24,4 +24,4 @@ A internet tem ajudado compradores de todas as áreas, mas os produtos de mercad
 
 ## Público-Alvo
 
-O público-alvo desse projeto são pessoas que precisam fazer compras em supermercados regularmente e em maiores quantidades, e pessoas que gostam de pesquisar o preço dos produtos que irão comprar mas não podem gastar tanto tempo nisso. Eles têm acesso à internet através de um celular. Pessoas com uma condição financeira limitada.
+O público-alvo desse projeto são pessoas adultas na faixa de 25 à 55 anos que trabalham e se sustentam, e precisam fazer compras em supermercados regularmente. Elas têm acesso à internet através de um celular. Pessoas com uma condição financeira limitada.
