@@ -9,6 +9,14 @@
 
 ## Plano de Testes
 
+|      QUEM   |NECESSIDADES       |  FINALIDADE DA NECESSIDADE                     |
+|-------------|-------------------|----------------------------------------------------------------|
+|Maria das Graças| Buscar um preço mais acessível de produtos  | Conseguir economizar o máximo possível para sustentar a familia       |
+|Suélen Fária | Comprar em grande quantidade e com preço melhor nos produtos | Conseguir ter maior lucro com suas marmitas           |
+|João da Silva Freitas | Buscar um preço melhor de produtos  | Conseguir economizar para viajar com sua familia                        |
+|Ana Pereira Carvalho  | Buscar um preço melhor e economizar seu tempo  | Conseguir ter mais tempo e dinheiro para dedicar ao lazer e estudos    |
+
+
 > Enumere quais cenários de testes foram selecionados para teste. Neste
 > tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo
 > de usuários que foi escolhido para participar do teste e as
