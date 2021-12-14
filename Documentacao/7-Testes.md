@@ -10,9 +10,17 @@
 ## Plano de Testes
 
 Para todos os testes, os 3 primeiros passos são o padrão a seguir:
-- 1) Acessar o Navegador
-- 2) Informar o endereço do Site
-- 3) Visualizar a página de login
+1) Acessar o Navegador
+2) Informar o endereço do Site
+3) Visualizar a página de login
+
+|Caso de Teste|CT-01 - login como usuário|
+|-------------|---------------------------|
+|Objetivo do Teste|Verificar se a carga de notícias está acontecendo corretamente|4) Verificar o processo de carga |
+|Critérios de Êxito|Deve haver uma requisição AJAX no painel NETWORK das ferramentas do Desenvolvedor (recurso do Navegador).
+As notícias devem ser exibidas corretamente no site, sendo necessárias pelo menos 3 notícias sendo apresentadas
+As notícias devem trazer imagens visíveis associadas ao assunto da notícia|
+
 
 |Caso de Teste|CT-01 - Visualizar Mercados|
 |-------------|---------------------------|
