@@ -12,10 +12,7 @@
 Avaliação Heurística – Checklist 
 |ID|Característica|Sim      Não      N/A|Comentários |
 |--|--------------|---------------------|------------|
-
-
-
-1 - Visibilidade do status do sistema 
+||1 - Visibilidade do status do sistema ||
 
 1.1 
 
