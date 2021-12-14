@@ -3,13 +3,9 @@
 <span style="color:red">Pré-requisitos: <a href="6-Implementação.md"> Projeto da Solução</a></span>
 
 
-> Apresente os cenários de testes utilizados na realização dos testes da
-> sua aplicação. Escolha cenários de testes que demonstrem os requisitos
-> sendo satisfeitos.
 
-## Plano de Testes
+##Avaliação Heurística – Checklist 
 
-Avaliação Heurística – Checklist 
 |ID|Característica|Sim      Não      N/A|Comentários |
 |--|--------------|---------------------|------------|
 ||1 - Visibilidade do status do sistema ||
@@ -68,30 +64,7 @@ Avaliação Heurística – Checklist
 |10.3|É simples o acesso a ajuda do sistema e o retorno ao sistema?   |O O X |
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
+## Plano de Testes
  
 
 > Enumere quais cenários de testes foram selecionados para teste. Neste
