@@ -13,114 +13,31 @@ Avaliação Heurística – Checklist
 |ID|Característica|Sim      Não      N/A|Comentários |
 |--|--------------|---------------------|------------|
 ||1 - Visibilidade do status do sistema ||
-|1.1|As telas do sistema iniciam com um título que descreve seu conteúdo?|O         O         O |
-|1.2|O ícone selecionado é destacado dos demais não selecionados? |O         O         O |
-|1.3|Há feedback visual do menu ou escolhas selecionadas?|O         O         O |
-|1.4|O sistema provê visibilidade do estado atual e alternativas para ação?|O         O         O |
-|1.1|As telas do sistema iniciam com um título que descreve seu conteúdo?|O         O         O |
-|1.1|As telas do sistema iniciam com um título que descreve seu conteúdo?|O         O         O |
-|1.1|As telas do sistema iniciam com um título que descreve seu conteúdo?|O         O         O |
-|1.1|As telas do sistema iniciam com um título que descreve seu conteúdo?|O         O         O |
-|1.1|As telas do sistema iniciam com um título que descreve seu conteúdo?|O         O         O |
-|1.1|As telas do sistema iniciam com um título que descreve seu conteúdo?|O         O         O |
-|1.1|As telas do sistema iniciam com um título que descreve seu conteúdo?|O         O         O |
+|1.1|As telas do sistema iniciam com um título que descreve seu conteúdo?|X         O         O |
+|1.2|O ícone selecionado é destacado dos demais não selecionados? |O         X         O |
+|1.3|Há feedback visual do menu ou escolhas selecionadas?|O         X         O |
+|1.4|O sistema provê visibilidade do estado atual e alternativas para ação?|O         O          X|
+||2 - Correspondência entre sistema e mundo real ||
+|2.1|Os ícones e ilustrações são concretos e familiares? |X         O         O |
+|2.2|As cores, quando utilizadas, correspondem aos códigos de cores comuns? |O         O         X |
+|2.3|A linguagem utilizada evita jargões técnicos? |X         O         O |
+|2.4|Os números são devidamente separados nos milhares e nos decimais? |X         O         O |
+||3 - Controle do usuário e liberdade ||
+|3.1|Se o sistema utiliza janelas que se sobrepõem, ele permite a organização e a troca simples? |O         O         O |
+|3.2|Quando o usuário conclui uma tarefa, o sistema aguarda uma ação antes de processar? |O         O         O |
+|3.3|O usuário é solicitado a confirmar tarefas que possuem consequências drásticas? |O         O         O |
+|3.4|Existe uma funcionalidade para desfazer ações realizadas pelo usuário? |O         O         O |
+|3.5|O usuário pode editar, copiar e colar durante a entrada de dados? |O         O         O |
+|3.6|O usuário pode se mover entre campos e janelas livremente? |O         O         O |
+|3.7|O usuário pode configurar o sistema, a sessão, a tela conforme sua preferência? |O         O         O |
+||1 - Visibilidade do status do sistema ||
 
-
-O         O         O 
-
- 
-
-2 - Correspondência entre sistema e mundo real 
-
-2.1 
-
-Os ícones e ilustrações são concretos e familiares? 
-
-O         O         O 
-
- 
-
-2.2 
-
-As cores, quando utilizadas, correspondem aos códigos de cores comuns? 
-
-O         O         O 
-
- 
-
-2.3 
-
-A linguagem utilizada evita jargões técnicos? 
-
-O         O         O 
-
- 
-
-2.4 
-
-Os números são devidamente separados nos milhares e nos decimais? 
-
-O         O         O 
-
- 
-
-3 - Controle do usuário e liberdade 
-
-3.1 
-
-Se o sistema utiliza janelas que se sobrepõem, ele permite a organização e a troca simples? 
-
-O         O         O 
-
- 
-
-3.2 
-
-Quando o usuário conclui uma tarefa, o sistema aguarda uma ação antes de processar? 
-
-O         O         O 
-
- 
-
-3.3 
 
 O usuário é solicitado a confirmar tarefas que possuem consequências drásticas? 
-
-O         O         O 
-
- 
-
-3.4 
-
 Existe uma funcionalidade para desfazer ações realizadas pelo usuário? 
-
-O         O         O 
-
- 
-
-3.5 
-
 O usuário pode editar, copiar e colar durante a entrada de dados? 
-
-O         O         O 
-
- 
-
-3.6 
-
 O usuário pode se mover entre campos e janelas livremente? 
-
-O         O         O 
-
- 
-
-3.7 
-
 O usuário pode configurar o sistema, a sessão, a tela conforme sua preferência? 
-
-O         O         O 
-
- 
 
 4 - Consistência e padrões 
 
