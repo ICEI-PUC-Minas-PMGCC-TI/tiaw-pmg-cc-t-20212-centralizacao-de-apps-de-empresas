@@ -11,7 +11,7 @@
 
 Avaliação Heurística – Checklist 
 |ID|Característica|Sim      Não      N/A|Comentários |
-
+|--|--------------|---------------------|------------|
 
 
 
