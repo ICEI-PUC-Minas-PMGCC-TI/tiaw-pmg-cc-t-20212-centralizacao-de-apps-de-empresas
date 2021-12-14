@@ -13,7 +13,6 @@ Os membros do grupo são:
 - Pedro Augusto Carbonaro Goncalves
 - Hudsson Davih Apolinario De Andrade
 - Mário do vale pereira
-- Gabriel
 
 # Estrutura do Documento
 
