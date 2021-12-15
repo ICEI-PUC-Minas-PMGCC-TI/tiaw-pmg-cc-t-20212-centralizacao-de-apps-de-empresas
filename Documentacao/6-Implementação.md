@@ -6,50 +6,26 @@
 
 Em nosso projeto, utilizamos as linguagens HTML, CSS e JavaScript. Utilizamos também o LocalStorage para armazenar os dados de mercados, produtos e usuários, e o SessionStorage, para se ter conhecimento da pessoa logada.
 
-> Descreva aqui qual(is) tecnologias você vai usar para resolver o seu
-> problema, ou seja, implementar a sua solução. Liste todas as
-> tecnologias envolvidas, linguagens a serem utilizadas, serviços web,
-> frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
-> Apresente também uma figura explicando como as tecnologias estão
-> relacionadas ou como uma interação do usuário com o sistema vai ser
-> conduzida, por onde ela passa até retornar uma resposta ao usuário.
-> 
-> Inclua os diagramas de User Flow, esboços criados pelo grupo
-> (stoyboards), além dos protótipos de telas (wireframes). Descreva cada
-> item textualmente comentando e complementando o que está apresentado
-> nas imagens.
 
 ## Arquitetura da solução
 
 ![image](https://user-images.githubusercontent.com/90793478/146096034-21996b40-a33f-400c-9b9e-7b4c89411a8e.png)
-
+<br>
 Na página de login é onde há a consulta ao item de usuários do LocalStorage, para garantir que para que o usuário possa acessar o conteúdo do site, ele tenha uma conta.
 
-> Inclua um diagrama da solução e descreva os módulos e as tecnologias
-> que fazem parte da solução. Discorra sobre o diagrama.
+<br><br>
+![image](https://user-images.githubusercontent.com/90793478/146097265-6e872ccf-210d-421c-9edd-2dc3b4ed059a.png)
+![image](https://user-images.githubusercontent.com/90793478/146098243-beb340c2-6f0c-4d73-bcbe-f0d2c7a91afc.png)
+<br>
+O item de mercados do LocalStorage é acessado e são mostrados os mercados cadastrados na página inicial. Na página de cadastro de mescador, a lista de mercados do mesmo item é atualizada ao se cadastrar um novo mercado.
+<br><br>
 
-A imagem a seguir ilustra a o fluxo do usuário em nossa solução. Assim
-que o usuário entra na plataforma, ele é apresentado à tela inicial
-(Tela 1) onde ele é confrontado com as opões de editar seu perfil ou
-então visualizar sua galeria.
+![image](https://user-images.githubusercontent.com/90793478/146097601-70aeac4b-f46f-4bf9-a260-2c0e50f20caf.png)
+![image](https://user-images.githubusercontent.com/90793478/146097700-1f5258b5-24cf-49c2-ac52-9663674f7d6c.png)
+O item de produtos do LocalStorage é acessado e são mostrados os produtos cadastrados na página de pesquisa. Na página de cadastro de produtos, a lista de produtos do mesmo item é atualizada ao se cadastrar ou editar um produto.
+<br><br>
+![image](https://user-images.githubusercontent.com/90793478/146098371-4ecf7404-ebe4-440e-8a3a-1b36a31dd393.png)
+![image](https://user-images.githubusercontent.com/90793478/146098403-480b2bf7-669a-493c-aeb9-10f0815944e6.png)
+O item de usuários do LocalStorage é acessado e são mostrados os usuários cadastrados na página de usuários. Na página de cadastro de administradores, a lista de usuários do mesmo item é atualizada ao se cadastrar um novo administrador.
 
-Caso ele opte por seguir pelo primeiro caminho (Editar Perfil), ele é
-redirecionado para a tela de edição de perfil (Tela 2), onde pode
-atualizar seus dados cadastrais. Nessa tela, o usuário também pode
-escolher para editar sua foto de perfil. Ao selecionar essa opção, ele é
-redirecionado para a Tela 3, onde ele a imagem expandida do perfil do
-usuário é mostrado. Ao selecionar a opção para atualizar a imagem, uma
-nova janela abre pedindo para o usuário fazer o upload da nova foto.
-Assim que o processo termina um pop-up exibe o status para o usuário
-(Tela 4) e o usuário é redirecionado para a Tela 2.
 
-Caso o usuário opte seguir pelo segundo caminho (Visualizar Galeria) ele
-é redirecionado para a Tela 5 com todas as fotos que o usuário possui. O
-usuário pode clicar em um post qualquer para visualizar os detalhes do
-post (Tela 6). Nessa tela, ele pode então escolher editar o post, sendo
-redirecionado para a Tela 7. Ao editar as informações, o usuário pode
-escolher salvar ou deletar o post. Em ambos os casos o status é
-notificado para o usuário (Tela 8) e em seguida ele é redirecionado
-para a Tela 2.
-
-![Exemplo de UserFlow](images/userflow.jpg)
