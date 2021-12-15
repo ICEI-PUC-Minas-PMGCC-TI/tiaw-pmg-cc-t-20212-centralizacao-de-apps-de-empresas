@@ -1,6 +1,6 @@
 # Introdução
 
-O crescimento do uso da internet nos últimos anos desencadeou mudanças em diversas áreas. Uma das mais afetadas foi o comércio. Antes de comprar algo hoje em dia, é comum pesquisar os preços desse produto na internet e escolher onde comprá-lo antes mesmo de se ter contato com ele. Porém, quando se faz compras no supermercado, essa pesquisa é mais difícil de ser feita pela alta quantidade de produtos e pela informação pouco centralizada sobre seus preços na internet.
+O crescimento do uso da internet nos últimos anos desencadeou mudanças em diversas áreas. Uma das mais afetadas foi o comércio. Antes de comprar algo hoje em dia, é comum pesquisar os preços desse produto na internet e escolher onde comprá-lo antes mesmo de se ter contato com ele. Segundo o [Thinkwithgoogle](https://www.thinkwithgoogle.com/intl/pt-br/tendencias-de-consumo/tendencias-de-comportamento/visual-stories), em 2018, 63% das compras registradas no mundo começaram online. Porém, quando se faz compras no supermercado, essa pesquisa é mais difícil de ser feita pela alta quantidade de produtos e pela informação pouco centralizada sobre seus preços na internet.
 
 ## Problema
 
